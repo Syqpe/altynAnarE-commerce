@@ -1,2 +1,2 @@
 # altynAnarE-commerce
-project with Vue
+project with Vue.JS
